@@ -1,0 +1,17 @@
+{
+  "name": "Codex Athari",
+  "short_name": "Codex Athari",
+  "description": "Berbagi ilmu dan pemahaman Islam sesuai pemahaman Salafush Shalih",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2d8653",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "id"
+}

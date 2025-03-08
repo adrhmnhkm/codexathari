@@ -1,0 +1,49 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="id">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>
+			<p class="arabic-subtitle">Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang</p>
+			
+			<p>
+				Assalamu'alaikum warahmatullahi wabarakatuh. Selamat datang di Codex Athari, 
+				tempat berbagi ilmu dan pemahaman tentang agama Islam sesuai dengan pemahaman Salafush Shalih.
+			</p>
+
+			<h2>Tujuan Blog</h2>
+			<ul>
+				<li>Berbagi ilmu dan pemahaman tentang Islam sesuai Al-Qur'an dan As-Sunnah</li>
+				<li>Mendokumentasikan pembelajaran dalam perjalanan menuntut ilmu</li>
+				<li>Menjadi sarana dakwah yang bermanfaat</li>
+				<li>Membangun komunitas pembelajar yang berpegang teguh pada manhaj salaf</li>
+			</ul>
+
+			<h2>Kategori Tulisan</h2>
+			<ul>
+				<li>📖 Tafsir Al-Qur'an</li>
+				<li>🤲 Hadits & Sunnah</li>
+				<li>🕌 Fiqih Ibadah</li>
+				<li>❤️ Akhlak & Adab</li>
+				<li>📚 Sejarah Islam</li>
+				<li>💭 Manhaj & Aqidah</li>
+			</ul>
+
+			<blockquote>
+				"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lainnya"
+				<footer>- HR. Ahmad, ath-Thabrani, ad-Daruqutni</footer>
+			</blockquote>
+		</main>
+		<Footer />
+	</body>
+</html>
