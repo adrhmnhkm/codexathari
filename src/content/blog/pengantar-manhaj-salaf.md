@@ -2,7 +2,7 @@
 title: 'Pengantar Manhaj Salaf: Jalan Keselamatan'
 description: 'Memahami pentingnya mengikuti manhaj salaf dalam beragama dan implementasinya di masa kini'
 pubDate: 'Mar 15 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: 'https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&q=80'
 ---
 
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
