@@ -2,7 +2,7 @@
 title: 'Akar Filsafat LOA'
 description: 'Memahami akar filsafat LOA'
 pubDate: 'March 12 2022'
-heroImage: 'https://unsplash.com/photos/silhouette-of-person-standing-on-rock-surrounded-by-body-of-water-odxB5oIG_iA'
+heroImage: 'https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 ---
 
 ## Filsafat di Balik Law of Attraction (LOA): Antara Idealitas dan Realitas
