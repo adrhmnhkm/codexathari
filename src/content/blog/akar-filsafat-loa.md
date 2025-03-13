@@ -27,5 +27,7 @@ LOA menekankan kebebasan kehendak (free will), seolah manusia sepenuhnya bisa me
 ### Kesimpulan  
 Filsafat LOA adalah perpaduan antara idealime, spiritualitas modern, dan psikologi yang menekankan kekuatan pikiran dalam membentuk realitas. Meskipun ada elemen psikologi yang terbukti (seperti *Self-Fulfilling Prophecy*), aspek metafisik LOA masih spekulatif. Dari perspektif Islam, berpikir positif dan optimis memang dianjurkan, tetapi harus tetap dalam koridor iman kepada takdir Allah dan usaha nyata, bukan sekadar afirmasi kosong.
 
+##### Sumber:
+1. http://drjamesmichaelnolan.com/featured/law-attraction-new-thought-hermetic-teachings/
 
 
