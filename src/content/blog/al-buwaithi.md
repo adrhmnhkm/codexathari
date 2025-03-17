@@ -5,8 +5,6 @@ pubDate: 'March 17 2025'
 heroImage: 'https://images.unsplash.com/photo-1515966097209-ec48f3216288?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 ---
 
-## Imam Al-Buwaithi, sebuah Keteguhan dan Kesabaran.
-
 Nama lengkapnya Yusuf bin Yahya bin Ya’qub Al-Buwaithi. Al-Buwaithi dinisbatkan kepada sebuah daerah di Mesir yang bernama Buwaith. Ketika Imam Syafi’i rihlah ke Mesir, Al-Buwaithi selalu membersamainya hingga ia mampu mendulang pundi-pundi ilmu yang begitu banyak dari Sang Imam.
 
 Al-Buwaithi memiliki kepribadian yang luhur, ia adalah seorang yang zuhud dan wara’, ia juga seorang mujtahid. Banyak dari penuntut ilmu berguru padanya bahkan dalam sebuah riwayat dikatakan muridnya mencapai jumlah yang fantastis yaitu sekitar 10.000 penuntut ilmu yang berasal dari dalam Mesir maupun luar. Al-Buwaithi juga termasuk penyebar Madzhab Syafi’i di Mesir. Nama Al-Buwaithi sering disebut didalam setiap kitab Madzhab Syafi’i. Selain dianggap sebagai seorang mujtahid dalam madzhab, ia juga termasuk salah satu dari yang paling terkenal dalam periwayatan madzhab jadidnya Imam Syafi’i. 
