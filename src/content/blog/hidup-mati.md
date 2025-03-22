@@ -40,6 +40,7 @@ Hari ini kita menanam, dan kelak kita akan menuai hasilnya. Kemuliaan dan kehina
 >*"Siapakah di antara kalian yang paling baik amalnya." (QS. AlMulk: 2)*
 
 Jika dunia ini hanyalah setetes embun, mengapa kita begitu sibuk mengejarnya? Mengapa perhatian kita hanya tertuju pada kesenangan sesaat?
+
 Dunia yang tidak dipahami hakikatnya akan melahirkan keserakahan. Orang yang hidup hanya untuk memenuhi hawa nafsunya akan dikendalikan oleh nafsu itu sendiri. Ia akan diperbudak oleh cinta dunia, hingga akhirnya kehilangan segalanya demi mengejar harta dan kedudukan.
 
 Abu Thayyib Al-Mutanabbi, penyair besar, pernah mengagungkan kekuasaan dan kejayaan dunia. Namun, pada akhirnya, ia meninggalkan dunia ini seperti debu yang diterbangkan angin. Sebagaimana seorang penyair berkata:
