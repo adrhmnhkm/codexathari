@@ -22,3 +22,6 @@ Yang menarik, Dr. Khan mengangkat bagaimana Nabi Muhammad ﷺ memberikan contoh 
 Dalam menghadapi tantangan global seperti krisis di Gaza yang berdampak pada kesehatan mental umat Islam, Dr. Khan menawarkan pendekatan yang lebih proaktif. Ia menyarankan agar umat Islam tetap terinformasi tanpa berlebihan, berpartisipasi dalam aksi nyata seperti advokasi dan amal, serta memperbanyak ibadah sebagai sumber ketenangan jiwa.  
 
 Kesimpulannya, sesi ini menghadirkan perspektif Islam yang kaya akan solusi dalam menangani kesehatan mental. Islam tidak hanya memberikan panduan moral, tetapi juga menawarkan mekanisme coping yang kuat melalui ibadah, komunitas, serta sistem nilai yang memberikan makna dalam kehidupan. Dr. Khan menegaskan bahwa kesehatan mental bukan sekadar masalah individu, tetapi bagian dari tanggung jawab kolektif umat dalam membangun masyarakat yang lebih sehat secara psikologis dan spiritual.
+
+#### Referensi
+1. https://hms.harvard.edu/news/half-worlds-population-will-experience-mental-health-disorder
