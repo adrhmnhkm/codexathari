@@ -5,10 +5,10 @@ pubDate: 'March 24 2025'
 heroImage: 'https://images.unsplash.com/photo-1475137979732-b349acb6b7e3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 ---
 
+Sumber video:
+[Dr Nazir Khan](https://youtu.be/zWQmU-vX9PQ?list=TLGGRtIsYwyikVsyNDAzMjAyNQ)
 
-<video src="https://youtu.be/zWQmU-vX9PQ?list=TLGGRtIsYwyikVsyNDAzMjAyNQ" width="320" height="240" controls></video>
-
-  
+ 
 Dalam sesi ketiga webinar *Muslim Mental Health Matters*, Dr. Nazir Khan, seorang dokter medis, ahli saraf klinis, dan teolog Islam, mengangkat isu krisis kesehatan mental global dengan pendekatan yang unik. Ia tidak hanya menyoroti statistik mengkhawatirkan tentang gangguan mental, tetapi juga mengaitkannya dengan nilai-nilai etika dan spiritualitas dalam Islam.  
 
 Dr. Khan membuka diskusi dengan fakta mengejutkan: lebih dari separuh populasi dunia diperkirakan akan mengalami gangguan mental dalam hidup mereka, namun mayoritas dari mereka tidak mendapatkan perawatan yang memadai. Ia juga mengkritisi budaya materialisme modern yang menanamkan makna hidup pada kesenangan fisik dan kepemilikan, yang pada akhirnya justru memperburuk kesehatan mental. Media sosial, khususnya Instagram, disebutnya sebagai pemicu meningkatnya kecemasan sosial, depresi, dan gangguan harga diri di kalangan remaja.  
