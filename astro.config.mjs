@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
+import { defineConfig } from 'astro/config'; // Pastikan import ini benar
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
